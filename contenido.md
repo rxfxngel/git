@@ -12,6 +12,10 @@ git add datos.txt
 ```git
  git commit -m 'nuevo txt'
 ```
+### Agregar Origen
+```git
+git remote add origin https://github.com/rxfxngel/safepass.git
+```
 ### publicar cambios en la nube
 ```git
 git push -u origin master
