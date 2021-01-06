@@ -23,7 +23,7 @@ git push -u origin master
 
 #Ejemplo de ejecucion
 
-```git
+```bat
 POWERBI@DESKTOP-2UMC58O MINGW64 ~/Documents/POWERBI_FRONTEND (master)
 $ git status
 On branch master
